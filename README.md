@@ -1,5 +1,5 @@
 # current-cost-web-monitor
-Web interface for the Current Cost EnviR energy monitoring system
+Web interface for the Current Cost EnviR energy monitoring system.
 
 This is a simple website and script created to interpret and display the current temperature and power usage of your home. 
 
